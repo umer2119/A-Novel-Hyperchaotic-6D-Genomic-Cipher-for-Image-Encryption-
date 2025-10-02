@@ -35,12 +35,6 @@ The proposed encryption algorithm has been evaluated using standard cryptographi
 - *Histogram Uniformity*  
 - *Key Space & Key Sensitivity*  
 
----
-
-## 📂 Project Structure
-├── encryption.py # Main encryption and decryption implementation
-├── utils/ # Helper functions (chaotic maps, DNA/RNA rules, scrambling, etc.)
-├── README.md # Project documentation
 
 ---
 
@@ -68,8 +62,17 @@ The proposed encryption algorithm has been evaluated using standard cryptographi
 ## 👨‍🎓 STUDENT
 
 
-**Umer Farooq**
+**Umer Farooq** M.Tech (Computer Science and Engineering)
 Roll Number: **03MTGC23**
 Department of Computer Science & Engineering
 **Government College of Engineering and Technology (GCET), Jammu**
-M.Tech (4th Sem) (Computer Science and Engineering)
+
+
+---
+
+## 📂 Project Structure
+
+```text
+├── 6D.py # Main encryption and decryption implementation
+├── utils/ # Helper functions (chaotic maps, DNA/RNA rules, scrambling, etc.)
+├── README.md # Project documentation
