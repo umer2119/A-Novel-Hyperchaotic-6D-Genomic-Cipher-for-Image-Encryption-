@@ -47,6 +47,15 @@ The proposed encryption algorithm has been evaluated using standard cryptographi
 
 ---
 
+## 🖼 Phase Potrate of 6D Hyperchaotic system (MATLAB R2024a)
+
+| 3D representation | 3D representation | 2D representation |
+|----------------|----------------|----------------|
+| ![3D](images/Baboon.png) | ![3D](images/encrypted_Baboon.png) | ![2D](images/decrypted_Baboon.png) |
+
+
+---
+
 ## 📊 Histogram Analysis
 ![Original](images/Histogram.png)
 
