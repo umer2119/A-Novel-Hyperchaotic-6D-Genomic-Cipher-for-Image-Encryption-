@@ -35,7 +35,6 @@ The proposed encryption algorithm has been evaluated using standard cryptographi
 - *Histogram Uniformity*  
 - *Key Space & Key Sensitivity*  
 
-
 ---
 
 ## 🖼 Example Results
@@ -51,7 +50,8 @@ The proposed encryption algorithm has been evaluated using standard cryptographi
 
 | 3D representation | 3D representation | 2D representation |
 |----------------|----------------|----------------|
-| ![3D](images/Baboon.png) | ![3D](images/encrypted_Baboon.png) | ![2D](images/decrypted_Baboon.png) |
+| ![3D](images/Fig_4.png) | ![3D](images/Fig_5.png) | ![2D](images/Fig_9.png) |
+| ![3D](images/Fig_6.png) | ![3D](images/Fig_7.png) | ![2D](images/Fig_10.png) |
 
 
 ---
@@ -83,5 +83,6 @@ Department of Computer Science & Engineering
 
 ```text
 ├── 6D.py # Main encryption and decryption implementation
-├── utils/ # Helper functions (chaotic maps, DNA/RNA rules, scrambling, etc.)
+├── utils/ # Helper functions (chaotic maps, DNA/RNA rules, scrambling, etc.)/
 ├── README.md # Project documentation
+
